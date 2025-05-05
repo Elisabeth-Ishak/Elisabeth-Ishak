@@ -88,8 +88,8 @@ MS Office, SAP, Jira, Confluence
 
 ## 🌍 Languages
 
-- Arabic (Native)  
 - German (Native)  
+- Arabic (Native)
 - English (B2)  
 - Japanese (A1)
 
@@ -98,8 +98,7 @@ MS Office, SAP, Jira, Confluence
 ## 📬 Contact
 
 Feel free to reach out to me for collaboration, questions, or just to say hi!  
-📧 Email: elisabeth.ishak.dev@gmail.com *(example)*
-
+📧 Email: elisabeth.h.ishak@gmail.com 
 ---
 
 ## 📊 GitHub Stats
