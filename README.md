@@ -8,28 +8,28 @@
 ## 💼 Work Experience
 
 **Freelance Software Developer**  
-Wien — *May 2024 – Present*  
+Vienna — *May 2024 – Present*  
 *Building intuitive digital solutions for real-world problems.*
 
 **Volunteer – Church Community Projects**  
-Wien — *Ongoing*  
+Vienna — *Ongoing*  
 *Supporting local social initiatives.*
 
 **Volunteer – Tutoring for Students**  
-Wien — *Ongoing*  
+Vienna — *Ongoing*  
 *Helping students improve their academic performance.*
 
 **Administrative Assistant – BVAEB (Public Insurance for Civil Servants, Railways, and Mining)**  
-Wien — *Aug 2020 – Jun 2022*
+Vienna — *Aug 2020 – Jun 2022*
 
 **Waitress – Sakai Japanese Restaurant**  
-Wien — *Dec 2019 – Feb 2020*
+Vienna — *Dec 2019 – Feb 2020*
 
 **Medical Assistant – Dr. Said Ibrahim**  
-Wien — *Apr 2015 – Aug 2016*
+Vienna — *Apr 2015 – Aug 2016*
 
 **Cashier – Tabak Schönbrunnerstraße**  
-Wien — *Nov 2013 – Mar 2014*
+Vienna — *Nov 2013 – Mar 2014*
 
 ---
 
@@ -47,7 +47,7 @@ Certified Software Developer – Java *(With Distinction)*
 *Jul 2022 – Present*
 
 **University of Vienna**  
-Bachelor’s Studies in Japanese Studies  
+Bachelor’s Degree in Japanese Studies  
 *Oct 2017 – Jan 2020*
 
 **University of Vienna**  
@@ -64,7 +64,7 @@ Matura (Austrian Higher School Certificate)
 
 ### 🏡 Home Harmony Hero
 *April 2024 – June 2024*  
-A JavaFX desktop application built to streamline household organization and improve communication between roommates.  
+A JavaFX desktop application to optimize household organization and improve communication between roommates.  
 **Role:** Independent Developer  
 **Technologies:** Java, JavaFX, IntelliJ IDEA, Scene Builder, MySQL, CSS, macOS
 
@@ -98,7 +98,7 @@ MS Office, SAP, Jira, Confluence
 ## 📬 Contact
 
 Feel free to reach out to me for collaboration, questions, or just to say hi!  
-📧 Email: elisabeth.h.ishak@gmail.com
+📧 Email: elisabeth.ishak.dev@gmail.com *(example)*
 
 ---
 
@@ -108,3 +108,16 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabeth-ishak&layout=compact)
 
+---
+
+## ❗ GitHub Issues
+
+Found a bug? Have an idea to improve this project? Open an issue and let’s work together to make it better!
+
+### Types of Issues:
+- **Bug Reports:** If you encounter a problem or error, please open an issue with a detailed description of how to reproduce it.
+- **Feature Requests:** Suggest new features or improvements you would like to see in the project.
+- **General Questions or Discussions:** Open an issue for any questions or ideas you would like to discuss with the community.
+- **Contributions:** If you’d like to contribute, please create an issue to let me know what you’re working on!
+
+🔗 [Open an issue here](https://github.com/elisabeth-ishak/yourRepository/issues)
