@@ -5,61 +5,6 @@
 
 ---
 
-## 💼 Work Experience
-
-**Freelance Software Developer**  
-Vienna — *May 2024 – Present*  
-*Building intuitive digital solutions for real-world problems.*
-
-**Volunteer – Church Community Projects**  
-Vienna — *Ongoing*  
-*Supporting local social initiatives.*
-
-**Volunteer – Tutoring for Students**  
-Vienna — *Ongoing*  
-*Helping students improve their academic performance.*
-
-**Administrative Assistant – BVAEB (Public Insurance for Civil Servants, Railways, and Mining)**  
-Vienna — *Aug 2020 – Jun 2022*
-
-**Waitress – Sakai Japanese Restaurant**  
-Vienna — *Dec 2019 – Feb 2020*
-
-**Medical Assistant – Dr. Said Ibrahim**  
-Vienna — *Apr 2015 – Aug 2016*
-
-**Cashier – Tabak Schönbrunnerstraße**  
-Vienna — *Nov 2013 – Mar 2014*
-
----
-
-## 🎓 Education
-
-**CODERS.BAY Vienna**  
-Diploma Program in Full-Stack Development  
-*Jan 2025 – Aug 2025*
-
-**WIFI, Vienna**  
-Certified Software Developer – Java *(With Distinction)*  
-*Nov 2023 – Jun 2024*
-
-**Self-Study – Object-Oriented Programming (OOP)**  
-*Jul 2022 – Present*
-
-**University of Vienna**  
-Bachelor’s Degree in Japanese Studies  
-*Oct 2017 – Jan 2020*
-
-**University of Vienna**  
-Law Studies (Diploma Program)  
-*Oct 2012 – Jan 2014*
-
-**Diefenbach High School, Vienna**  
-Matura (Austrian Higher School Certificate)  
-*Sep 2009 – Jun 2012*
-
----
-
 ## 🛠️ Projects
 
 ### 🏡 Home Harmony Hero
@@ -67,6 +12,17 @@ Matura (Austrian Higher School Certificate)
 A JavaFX desktop application to optimize household organization and improve communication between roommates.  
 **Role:** Independent Developer  
 **Technologies:** Java, JavaFX, IntelliJ IDEA, Scene Builder, MySQL, CSS, macOS
+
+### 🔹 Bible Quiz — German
+
+📅 **August 2024 – October 2024**  
+🎯 **Role:** Project Lead & Lead Developer  
+📱 **Description:**  
+Cross-platform quiz app focused on intuitive user interface and engaging logic.  
+Led usability testing efforts, resulting in a 30% increase in user satisfaction.  
+
+🧩 **Technologies:** Dart, Flutter, IntelliJ IDEA, Xcode, iOS Simulator, Android Emulator, macOS  
+🔗 *(Repository link coming soon)*
 
 ---
 
