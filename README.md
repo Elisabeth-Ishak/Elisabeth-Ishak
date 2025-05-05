@@ -11,18 +11,15 @@
 *April 2024 – June 2024*  
 A JavaFX desktop application to optimize household organization and improve communication between roommates.  
 **Role:** Independent Developer  
-**Technologies:** Java, JavaFX, IntelliJ IDEA, Scene Builder, MySQL, CSS, macOS
+**Technologies:** Java, JavaFX, IntelliJ IDEA, Scene Builder, MySQL, CSS, macOS  
 
-### 🔹 Bible Quiz — German
+---
 
-📅 **August 2024 – October 2024**  
-🎯 **Role:** Project Lead & Lead Developer  
-📱 **Description:**  
-Cross-platform quiz app focused on intuitive user interface and engaging logic.  
-Led usability testing efforts, resulting in a 30% increase in user satisfaction.  
-
-🧩 **Technologies:** Dart, Flutter, IntelliJ IDEA, Xcode, iOS Simulator, Android Emulator, macOS  
-🔗 *(Repository link coming soon)*
+### 📖 Bible Quiz — German
+*August 2024 – October 2024*  
+A cross-platform quiz app focused on intuitive UI and engaging logic, developed to support German-speaking users.  
+**Role:** Project Lead & Lead Developer  
+**Technologies:** Dart, Flutter, IntelliJ IDEA, Xcode, iOS Simulator, Android Emulator, macOS  
 
 ---
 
