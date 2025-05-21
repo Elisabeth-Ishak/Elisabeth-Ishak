@@ -26,10 +26,10 @@ A cross-platform quiz app focused on intuitive UI and engaging logic, developed 
 ## 💡 Skills
 
 **Languages & Frameworks:**  
-Java, JavaFX, Spring Boot, REST, JPA & Hibernate, Spring Security, HTML, CSS, Bootstrap, JavaScript, Vue.js, Vuetify, SQL, MariaDB, MySQL, Dart, Flutter
+Java, JavaFX, SAP, Spring, Spring Boot, REST, JPA & Hibernate, Spring Security, HTML, CSS, Bootstrap, Tailwind, JavaScript, Vue.js, Vuetify, SQL, MariaDB, MySQL, Dart, Flutter
 
 **Tools & Platforms:**  
-IntelliJ IDEA, VS Code, WebStorm, Xcode, Android Studio, Postman, Docker, Jenkins, GitLab, Swagger API
+IntelliJ IDEA, VS Code, WebStorm, Xcode, Android Studio, Postman, Docker, Kubernetes, Jenkins, GitLab, Swagger API
 
 **Development Practices:**  
 Agile Methods, Scrum, Git, DevOps
